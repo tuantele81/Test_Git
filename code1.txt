@@ -1,2 +1,4 @@
 mã nguồn đầu tiên của kho thư mục
 SIC 2025
+
+thay đổi nội dung của file code1.txt
